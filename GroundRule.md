@@ -1,4 +1,4 @@
-Ground Rule (Version 0.1)
+Ground Rule (Version 0.9)
 
 1. 조장이 챙기지 못했거나 까먹은 경우, 팀원들이 적극적으로 알려주고 보완한다.
 
