@@ -1,6 +1,6 @@
 # Ideation2
 
-** 자전거 경로 앱 **
+**자전거 경로 앱**
 
 ## Key words
 Bicycle Safety
