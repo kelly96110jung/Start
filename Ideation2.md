@@ -1,4 +1,4 @@
-# Ideation2 - 자전거 경로 앱
+# Ideation2 - 자전거 경로 앱(Version 0.9)
 
 **Key words**
 Bicycle Safety
