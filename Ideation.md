@@ -1,6 +1,6 @@
 # Ideation
 
-#여행 관련 일정 추천 서비스
+#여행 관련 일정 추천 서비스(Version 0.9)
 
 ##Key words
 Travel Plan
