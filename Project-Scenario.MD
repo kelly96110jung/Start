@@ -10,5 +10,5 @@
 | Pain Point | 자전거 도로와 차도를 구분하기 어려움 · 비/홍수 시 통제 구간을 사전에 확인하기 어려움 · 공사·행사 등 변수로 라이딩 계획이 어그러짐 |
 | 사용할 소프트웨어 패키지의 명칭과 핵심기능/용도 | **React Native + Expo**: 설치/빌드 간단, iOS/Android 동시 개발, 네이티브 접근 용이<br>**Mapbox SDK + Directions API(사이클링 프로필)**: 자전거 전용 경로 지원, 오버레이/스타일링 편리<br>**기상청 Open API**: 강수·특보/주의보 데이터를 분/시간 단위 폴링하여 위험 레이어 생성 |
 | 사용할 소프트웨어 패키지의 명칭과 URL | [Expo](https://expo.dev/) · [React Native](https://reactnative.dev/)<br>[Mapbox](https://www.mapbox.com/)<br>[기상청 Open API](https://data.kma.go.kr/) |
-| 팀그라운드룰 | 조장이 빠뜨린 사항은 팀원이 보완 · 카톡 답변 3시간 이내 · Commit 메시지 필수 작성 |
+| 팀그라운드룰 | https://github.com/kelly96110jung/Start/blob/main/GroundRule.md |
 | 최종수정일 | 2025-09-11 |
