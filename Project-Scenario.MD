@@ -10,5 +10,5 @@
 | Pain Point | - 지도 앱이 실제 자전거 도로/차도 구분이 불명확함<br>- 비·홍수로 인한 도로 통제 여부를 사전에 확인하기 어려움<br>- 우회 경로 안내가 부족하여 안전사고와 지연 발생 |
 | 사용할 소프트웨어 패키지의 명칭과 핵심기능/용도 | - Google Maps API (지도/경로 안내)<br>- 기상청 Open API (실시간 기상/수위 데이터)<br>- Firebase 또는 AWS (실시간 데이터 관리 및 알림)<br>- Android/iOS SDK (모바일 앱 개발) |
 | 사용할 소프트웨어 패키지의 명칭과 URL | - [Google Maps API](https://developers.google.com/maps)<br>- [기상청 Open API](https://data.kma.go.kr/)<br>- [Firebase](https://firebase.google.com/) / [AWS](https://aws.amazon.com/) |
-| 팀그라운드룰 | - 조장이 빠뜨린 부분은 팀원이 적극적으로 보완<br>- 카톡 답변은 3시간 이내 응답<br>- Commit 시 메시지 필수 작성<br>- 파일/폴더명 통일 |
+| 팀그라운드룰 | https://github.com/kelly96110jung/Start/blob/main/GroundRule.md |
 | 최종수정일 | 2025-09-11 |
