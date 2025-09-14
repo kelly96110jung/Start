@@ -14,5 +14,5 @@
 | **사용할 소프트웨어** | **React Native + Expo**: Android 전용 앱 개발, 빠른 프로토타입 제작<br>**Mapbox SDK + Directions API (사이클링 프로필)**: 자전거 전용 경로 안내, 지도 오버레이<br>**기상청 Open API**: 실시간 강수·특보/주의보 데이터 활용<br>**Firebase**: 사용자 데이터 저장(Firestore), 푸시 알림(FCM), Functions로 경량 연산 처리 |
 | **AI 모델 (경량)** | – **XGBoost/LightGBM**: 우회 경로 점수화<br>– **Logistic Regression/GBM**: 사용자별 선호도 반영 개인화 추천<br>– **Decision Tree/RandomForest**: 경로 난이도 등급화 |
 | **데이터 흐름** | 기상청 API + 사용자 제보 수집 → Functions에서 특징 추출/모델 적용 → 위험 구간·대체 경로·난이도 산출 → 앱 지도/알림에 반영 |
-| **팀 그라운드룰** | – 조장이 놓친 사항은 팀원이 보완 및 공유<br>– 카톡 답변은 3시간 이내<br>– Commit 메시지 필수 작성<br>– 파일·폴더 네이밍 규칙 통일 |
+| **팀 그라운드룰** | https://github.com/kelly96110jung/Start/blob/main/GroundRule.md |
 | **최종 수정일** | 2025-09-14 |
