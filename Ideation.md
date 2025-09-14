@@ -19,7 +19,7 @@ Bicycle · Safety · Flood Alert · Map · AI Recommendation
 ---
 
 ## 어떤 기술을 사용해서
-- **React Native + Expo**: iOS/Android 동시 개발  
+- **React Native + Expo**: Android 개발  
 - **Mapbox SDK + Directions API(사이클링 프로필)**: 자전거 전용 경로 안내, 지도 오버레이  
 - **기상청 Open API**: 실시간 강수·특보/주의보 데이터 연동  
 - **AI 추천 모델**: 사용자 유형별 경로 최적화, 제보 데이터 학습, 경로 난이도 분석  
