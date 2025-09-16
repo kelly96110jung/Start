@@ -3,7 +3,7 @@
 | 항목 | 내용 |
 |---|---|
 | **프로젝트명** | 자전거 경로 안전·홍수 경보 앱 |
-| **프로젝트<br>키워드** | Bicycle · Safety · Flood Alert · Map · AI Recommendation |
+| **프로젝트 키워드** | Bicycle · Safety · Flood Alert · Map · AI Recommendation |
 | **트랙** | 스마트시티 · 교통 · 공공데이터 활용 |
 | **프로젝트 멤버** | 정아윤, 이다은, 임하령 |
 | **팀 지도교수** | 이민수 교수님 (예정) |
