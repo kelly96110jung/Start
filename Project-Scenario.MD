@@ -1,4 +1,4 @@
-# Project Scenario - 자전거 경로 안전·홍수 경보 앱
+# Project Scenario - 자전거 경로 안전 앱
 
 | 항목 | 내용 |
 |---|---|
