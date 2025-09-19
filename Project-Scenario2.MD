@@ -14,5 +14,5 @@
 | **사용할 소프트웨어** | - **앱 제작:** Glide, FlutterFlow (노코드/로우코드)<br>- **데이터 저장:** Airtable, Google Sheets<br>- **지도 연동:** Google Maps 딥링크<br>- **데이터 소스:** 공공데이터 (예: 한국=TourAPI, 일본=Tokyo Open Data, 미국=NPS API, 대만=TDX API, 싱가포르=data.gov.sg) + Wikidata/Wikipedia, OpenStreetMap(보완용) |
 | **사용할 소프트웨어 패키지의 명칭과 URL** | - Glide: https://glideapps.com/<br>- FlutterFlow: https://flutterflow.io/<br>- Airtable: https://airtable.com/<br>- Google Sheets: https://workspace.google.com/<br>- Google Maps: https://maps.google.com/<br>- TourAPI(한국): https://www.data.go.kr/<br>- Tokyo Open Data: https://catalog.data.metro.tokyo.lg.jp/<br>- NPS API(미국): https://www.nps.gov/subjects/developer/api-documentation.htm<br>- TDX API(대만): https://tdx.transportdata.tw/<br>- data.gov.sg(싱가포르): https://data.gov.sg/ |
 | **데이터** | - 공공 관광 데이터 API(국가/도시 포털)에서 장소명·좌표·태그·운영시간·휴무일·이미지 수집<br>- 내부 테이블에 테마 태그/권역/평점/운영정보 캐시 |
-| **팀그라운드룰 URL** | (예정) |
+| **팀그라운드룰 URL** | https://github.com/kelly96110jung/Start/blob/main/GroundRule.md |
 | **최종 수정일** | 2025-09-21 |
