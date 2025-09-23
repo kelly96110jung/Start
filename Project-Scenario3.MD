@@ -14,5 +14,5 @@
 | **사용할 소프트웨어** | - **앱 제작:** FlutterFlow(노코드 프로토타이핑) 또는 React Native(고도화 단계)<br>- **데이터 저장/백엔드:** Firebase (사용자 프로필/식단 이력 저장), Airtable (영양소 DB 관리)<br>- **데이터 소스:** 식품 영양 데이터베이스 (미국 USDA FoodData Central, 한국 식품안전나라 DB) |
 | **사용할 소프트웨어 패키지의 명칭과 URL** | - FlutterFlow: https://flutterflow.io/<br>- React Native: https://reactnative.dev/<br>- Firebase: https://firebase.google.com/<br>- Airtable: https://airtable.com/<br>- USDA FoodData Central: https://fdc.nal.usda.gov/<br>- 한국 식품영양 DB: https://www.foodsafetykorea.go.kr/ |
 | **데이터** | - **식품별 영양 성분 데이터**: 단백질, 나트륨, 칼륨, 인, 칼로리 등<br>- **환자 프로필 데이터**: 연령, 성별, 체중, 질환 단계, 검사 수치<br>- **사용자 선호 데이터**: 선호 레시피, 피드백 이력<br>- **병원 검사 데이터**: 크레아티닌, eGFR 등 주요 임상 수치<br>- **추천 결과**: 선택한 레시피/식단, 장보기 내역 저장 |
-| **팀그라운드룰 URL** | (예정) |
+| **팀그라운드룰 URL** | https://github.com/kelly96110jung/Start/blob/main/GroundRule.md |
 | **최종 수정일** | 2025-09-23 |
