@@ -1,13 +1,25 @@
-Ideation – CareMap(가칭): 의료 행정·지원 네비게이션 앱 (Version 0.9)
+<h1>Ideation - CareMap (Version 0.9)</h1>
 
 Key words
-Healthcare · Caregiver · Sanjeongteukrye · Support Program · Insurance Hint · AI Summary
+Healthcare · Caregiver · Support Program · Sanjeongteukrye · Insurance Hint · AI Summary
 
-🎯 누구를 위해
+<hr style="border: 0; height: 2px; background: #000;"> <h2>누구를 위해</h2>
 
-아픈 가족을 돌보며 치료·행정·지원 정보를 스스로 찾아야 하는 보호자 및 환자.
+아픈 가족을 돌보며 치료·행정·지원 정보를 스스로 찾아야 하는 보호자 및 환자
 
-🎯 누구의 어떤 문제 해결을 위해
+<hr style="border: 0; height: 2px; background: #000;"> <h2>누구의 어떤 문제 해결을 위해</h2>
+
+제도(산정특례·재난적의료비·지자체 지원)가 흩어져 있어 비교하기 어려움
+
+치료 단계가 바뀔 때마다 필요한 행정 절차가 달라짐
+
+보험 약관이 복잡하여 청구 가능성을 판단하기 어려움
+
+제도/지원 정보가 바뀌어 보호자가 반복 확인해야 하는데 이를 자동화하는 시스템이 없음
+
+<hr style="border: 0; height: 2px; background: #000;"> <h2>어떤 기술을 사용해서</h2>
+
+React Native 또는 Flutter
 
 제도(산정특례·재난적의료비·지자체 지원)가 흩어져 있어 비교가 어려움
 
