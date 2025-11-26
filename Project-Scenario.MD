@@ -15,3 +15,4 @@
 | **사용할 소프트웨어 패키지의 명칭과 URL** | - FlutterFlow: <https://flutterflow.io/><br>- React Native: <https://reactnative.dev/><br>- Firebase: <https://firebase.google.com/><br>- Firebase Functions: <https://firebase.google.com/docs/functions><br>- iOS Speech Framework: <https://developer.apple.com/documentation/speech><br>- Android SpeechRecognizer: <https://developer.android.com/reference/android/speech/SpeechRecognizer> |
 | **데이터** | - 진료 음성 → 온디바이스 STT 텍스트 (음성 원본 저장 X)<br>- 사용자 프로필: 연령, 질환(선택), 진료 이력<br>- 요약 결과: 핵심 설명, 치료 옵션, 주의점<br>- 사용자 메모 및 저장한 진료 기록<br>- 텍스트 기반 AI 분석 결과(비의료적·정보 요약 수준) |
 | **팀그라운드룰 URL** | <https://github.com/kelly96110jung/Start/blob/main/GroundRule.md> |
+| **최종수정일** | 2025.11.27 |
