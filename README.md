@@ -1,3 +1,3 @@
 # Start
-Team Project for Start(졸프) program
+Team Project for Start(졸프) program<br>
 이 프로젝트는 진료실 음성을 환자 스마트폰에서 온디바이스 STT로 안전하게 텍스트로 변환한 뒤, AI를 활용하여 핵심 내용을 요약 및 쉬운 말로 변환하고 필수 정보를 정리하여 환자의 셀프 케어를 보조하는 모바일 앱을 개발한다.
