@@ -1,0 +1,11 @@
+# IntelliJ / IDE 설정 파일
+.idea/
+
+# 빌드 결과물
+out/
+
+# IntelliJ 모듈 파일
+*.iml
+
+# 컴파일 결과
+*.class
