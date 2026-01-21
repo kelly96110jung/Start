@@ -13,3 +13,75 @@ Ground Rule (Version 0.9)
   2.	메일을 보낼 경우 모든 팀원을 참조하고, 답장은 반드시 전체 답장으로 한다.
   3.	노션에 매일 자신의 업무 사항을 업데이트 한다.
   4.	문서를 깃허브에 올리기 전, 구글 드라이브 공유문서 기반으로 깃허브를 수정한다(불필요한 버전 업데이트 방지).
+
+
+1. 저장소 구조 (Monorepo)
+medexplain/
+├─ app/                  # Flutter 모바일 앱
+├─ server/               # FastAPI 백엔드 서버
+├─ shared/               # 공통 API 계약 및 샘플
+│  ├─ schema.md          # API 요청/응답 스키마 (단일 기준)
+│  └─ samples/           # 샘플 JSON 데이터
+├─ docs/                 # 다이어그램, 기획 문서, 회의 기록
+├─ scripts/              # 유틸리티 스크립트 (선택)
+├─ .github/              # PR 템플릿, CI 설정 (선택)
+├─ .gitignore
+├─ README.md
+└─ .env.example          # 환경 변수 예시 파일 (실제 키 금지)
+2. 브랜치 규칙
+보호 브랜치
+main
+
+데모 / 제출 / 최종 결과용 브랜치
+
+항상 실행 가능한 상태 유지
+
+dev
+
+통합 브랜치
+
+모든 기능은 먼저 이 브랜치로 병합
+
+작업 브랜치
+feature/<기능명>
+
+예: feature/stt-ui, feature/summarize-api
+
+fix/<이슈명>
+
+chore/<설정-정리>
+
+3. 머지 및 PR 규칙
+❌ main, dev 브랜치에 직접 push 금지
+
+✅ 모든 작업은 feature/* 브랜치에서 진행
+
+✅ dev 브랜치로 Pull Request 생성
+
+✅ PR 머지는 최소 1명 이상 리뷰 승인 필수
+
+✅ 데모 또는 제출 시에만 dev → main 머지
+
+4. API 계약 규칙 (매우 중요)
+API 계약은 shared/schema.md를 기준으로 한다
+
+요청(Request) / 응답(Response) 필드명과 타입은 고정
+
+❌ 팀 합의 없이 API 스키마 변경 금지
+
+스키마 변경 시 필수 절차:
+
+팀원 간 사전 논의
+
+shared/schema.md 수정
+
+전 팀원에게 변경 사항 공유 후 구현
+
+5. 비밀키 및 API 키 규칙
+❌ API 키, 토큰, 비밀 정보 커밋 금지
+
+❌ .env 파일 커밋 금지
+
+✅ .env.example 파일에 변수 이름만 명시
+
+각 팀원은 로컬 환경에서 개별적으로 키 관리
